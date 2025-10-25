@@ -1,8 +1,6 @@
-<style>
-        body {
-            background-image: url('https://images.steamusercontent.com/ugc/244710630325715238/DBF2154CE721814E9B0F8C6B14D1578A92A3F7B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false');
-        }
-    </style>
+<body style="background-image: url('https://images.steamusercontent.com/ugc/244710630325715238/DBF2154CE721814E9B0F8C6B14D1578A92A3F7B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false');">
+    <!-- Your content here -->
+</body>
 <h1 align="center">Hi 👋, I'm Rajesh Tanla</h1>
 <h3 align="center">A passionate Cybersecurity Specialist</h3>
 
