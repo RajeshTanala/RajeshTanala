@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajesh Tanla</h1>
 <h3 align="center">A passionate Cybersecurity Specialist</h3>
-<img align="right" img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/7c555e21-f9d7-4cfc-bdbb-d93838a99829" />
+
 
 
 <p align="left">
