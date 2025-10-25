@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajesh Tanla</h1>
 <h3 align="center">A passionate Cybersecurity Specialist</h3>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me:
+< img align="right" alt="coding" width="400" src="https://images.steamusercontent.com/ugc/244710630325715238/DBF2154CE721814E9B0F8C6B14D1578A92A3F7B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></h3>
 <p align="left">
 </p>
 
