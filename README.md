@@ -1,5 +1,4 @@
-
-<h3 align="center"> <img width="640" height="360" alt="image" src="Untitled.gif" /></h3>
+<h3 align="center"> <img width="640" height="360" alt="image" src="Untitled (1).gif" /></h3>
 <h1 align="center">Hi 👋, I'm Rajesh Tanala</h1>
 <h3 align="center">A passionate Cybersecurity Specialist</h3>
 
