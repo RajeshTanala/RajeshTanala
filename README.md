@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Tanla</h1>
 <h3 align="center">A passionate Cybersecurity Specialist</h3>
 
-<h3 align="left">Connect with me:
-< img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/4uHiI_EyE94AAAAd/dance-hacker-dance.gif"></h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
