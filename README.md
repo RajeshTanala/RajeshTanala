@@ -10,5 +10,4 @@
 <p align="left">
 </p>
 <h3 align="center"> <a href="https://www.linkedin.com/in/tanalarajesh"><img width="640" height="360" alt="image" src="Hacking.webp" /> </a> </h3>
-<h3 align="left">Languages and Tools:</h3>
 
