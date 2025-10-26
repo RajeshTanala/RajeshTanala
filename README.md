@@ -1,6 +1,6 @@
 <h3 align="center"> <a href="https://www.linkedin.com/in/tanalarajesh"> <img width="640" height="360" alt="image" src="Untitled (1).webp" /></h3> </a>
   <hr>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3C1AF7&width=435&lines=observe%2C+adapt%2C+evolve+%E2%80%94+Rajesh+Here" alt="Typing SVG" /></a></h3> <hr>
+<h3 align="center"><a href="https://www.linkedin.com/in/tanalarajesh"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3C1AF7&width=435&lines=observe%2C+adapt%2C+evolve+%E2%80%94+Rajesh+Here" alt="Typing SVG" /></a></h3> <hr>
 <h3 align="center">A Passionate Cybersecurity Specialist</h3>
 <hr>
 <h3 align="left">Connect with me:</h3>
