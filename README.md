@@ -1,6 +1,6 @@
 <h3 align="center"> <img width="640" height="360" alt="image" src="Untitled (1).webp" /></h3>
 <h1 align="center">Hi 👋, I'm Rajesh Tanala</h1>
-<h3 align="center">A passionate Cybersecurity Specialist</h3>
+<h3 align="center">A Passionate Cybersecurity Specialist</h3>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
